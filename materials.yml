@@ -1,20 +1,20 @@
 materials:
-  - description: "Copper"
-    color: [209, 121, 59]
-    parameters: [0.1236, 0.2965, 0.3126, 51.2]
+  - description: "Gold"
+    color: [225, 194, 63]
+    parameters: [0.24725, 0.75164, 0.628281, 51.2]
 
-  - description: "Turquoise Rubber"
-    color: [26, 188, 156]
-    parameters: [0.15, 0.5, 0.7, 10]
+  - description: "Obsidian"
+    color: [61, 40, 86]
+    parameters: [0.05375, 0.18275, 0.332741, 38.4]
 
   - description: "Red Plastic"
     color: [231, 76, 60]
     parameters: [0.1, 0.55, 0.7, 32]
 
-  - description: "Pearl"
-    color: [234, 224, 200]
-    parameters: [0.11, 0.44, 0.1483, 11.264]
+  - description: "Wood"
+    color: [74, 52, 45]
+    parameters: [0.17, 0.74, 0.12, 23.12]
 
   - description: "Silver"
     color: [189, 195, 199]
-    parameters: [0.2313, 0.2775, 0.7739, 89.6]
+    parameters: [0.19225, 0.50754, 0.508273, 51.2]
